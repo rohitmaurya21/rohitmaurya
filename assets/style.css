@@ -1,0 +1,143 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+.cta {
+  border: 2px solid rgb(98, 43, 226);
+  border-radius: 30px;
+  color: rgb(98, 43, 226);
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+}
+.cta :hover {
+  background-color: rgb(98, 43, 226);
+  color: rgb(221, 0, 0);
+}
+.mentor {
+  font-size: 1.1rem;
+  text-align: center;
+}
+.mentor:hover {
+  color: rgb(98, 43, 226);
+}
+/* ---------------------------- */
+.navbar {
+  margin-top: 1.5rem;
+}
+.introsection {
+  background-color: rgb(135, 83, 255);
+  text-align: center;
+}
+.intro-head {
+  padding-top: 50px;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 700;
+  color: white;
+}
+.intro-subhead {
+  text-align: center;
+  color: white;
+  padding-bottom: 10px;
+}
+
+/* intro */
+/* skills */
+.skills {
+  margin-top: 2rem;
+  position: relative;
+  border-radius: 50px;
+  /* border: 0.2px solid rgba(83, 81, 81, 0.88); */
+}
+/* skills */
+.cardcolor {
+  color: rgb(98, 43, 226);
+  font-size: 1.2rem;
+}
+
+/* work */
+.work {
+  margin-top: 5rem;
+}
+.worklink {
+  border-radius: 30px;
+  color: rgb(98, 43, 226);
+
+  text-align: center;
+  text-decoration: none;
+}
+
+/* work */
+
+/* company */
+.company {
+  margin-top: 8rem;
+  background-color: rgb(254, 254, 254);
+  border-radius: 50px;
+  border: 1px solid rgba(74, 72, 72, 0.485);
+}
+/* company */
+
+/* starupproj */
+.starupproj {
+  background-color: rgb(98, 43, 226);
+  text-align: center;
+
+  color: white;
+}
+/* starupproj */
+
+/* contact */
+.contact {
+  margin-top: 5rem;
+}
+.contacts {
+  border: 2px solid rgb(98, 43, 226);
+  border-radius: 30px;
+  color: rgb(98, 43, 226);
+  width: 200px;
+  text-align: center;
+  text-decoration: none;
+}
+.contacts:hover {
+  background-color: rgb(98, 43, 226);
+  color: white;
+}
+/* contact */
+/* formsvalidate */
+.names {
+  font-size: 1.2rem;
+  border-radius: 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+.names:hover {
+  border-color: rgb(0, 0, 0);
+}
+/* formsvalidate */
+/*  */
+.mail {
+  border: 2px solid rgb(43, 226, 43);
+  border-radius: 50px;
+  color: rgb(254, 254, 254);
+  width: 5rem;
+  padding: 1rem;
+}
+.mail:hover {
+  border: 2px solid rgb(255, 255, 255);
+  color: rgb(9, 255, 0);
+}
+/*  */
+.mail {
+  background-color: #ffffff;
+}
+/*  */
+
+/*  */
+.typewrite {
+  color: #ff5b5b;
+  text-decoration: none;
+  font-weight: 700;
+}
